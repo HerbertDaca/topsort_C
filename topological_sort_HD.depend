@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1728893289 source:c:\users\ziela\documents\c_cwiczenia\topological_sort_hd\main.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<stdbool.h>
+
